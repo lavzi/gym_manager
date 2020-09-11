@@ -1,0 +1,9 @@
+midleware do express -> 
+pseudo element CSS
+
+serviço de imagem:
+unsplash
+
+caniuse.com
+
+filesyustem node

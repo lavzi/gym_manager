@@ -1,0 +1,37 @@
+{
+  "members": [
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1553531580-a000ac8df244?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=282&q=80",
+      "name": "duda",
+      "email": "duda@com",
+      "birth": -23890291200000,
+      "gender": "F",
+      "blood": "A0",
+      "weight": "50",
+      "height": "160"
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1577221084712-45b0445d2b00?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=343&q=80",
+      "name": "avanzi",
+      "email": "lucasavanzi97@gmail.com",
+      "birth": 852163200000,
+      "gender": "M",
+      "blood": "B1",
+      "weight": "84",
+      "height": "181"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 5,
+      "avatar_url": "https://images.unsplash.com/photo-1577221084712-45b0445d2b00?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=343&q=80",
+      "name": "Lucas Avanzi",
+      "birth": 852163200000,
+      "gender": "M",
+      "services": "ciclismo, endurance, ginástica, crossfit",
+      "created_at": "08/09/2020"
+    }
+  ]
+}
